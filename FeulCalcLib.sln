@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeulCalcLib", "FeulCalcLib\FeulCalcLib.csproj", "{941B315A-B86E-4E42-B7BD-96BF9211A93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeulCalc_Console", "FeulCalc_Console\FeulCalc_Console.csproj", "{EBD27912-6D65-4606-AFB9-6758A0096B1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941B315A-B86E-4E42-B7BD-96BF9211A93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941B315A-B86E-4E42-B7BD-96BF9211A93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941B315A-B86E-4E42-B7BD-96BF9211A93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941B315A-B86E-4E42-B7BD-96BF9211A93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD27912-6D65-4606-AFB9-6758A0096B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD27912-6D65-4606-AFB9-6758A0096B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD27912-6D65-4606-AFB9-6758A0096B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD27912-6D65-4606-AFB9-6758A0096B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75206B6B-9104-4980-9A2F-9539169CF31F}
+	EndGlobalSection
+EndGlobal
